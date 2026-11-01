@@ -1,0 +1,23 @@
+.logo {
+  color: #2e2f42;
+}
+
+.logo span {
+  color: #4d5ae5;
+}
+/* Звичайний стан посилання */
+.nav-link {
+  color: #2e2f42;
+}
+
+/* Стан при наведенні мишкою (Hover) */
+.nav-link:hover {
+  color: #404bbf;
+}
+.contacts-link {
+  color: #434455;
+}
+
+.contacts-link:hover {
+  color: #404bbf;
+}

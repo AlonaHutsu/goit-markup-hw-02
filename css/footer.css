@@ -1,0 +1,22 @@
+/* Стилі для всього підвалу (темний фон з макета) */
+.footer {
+  background-color: #2e2f42;
+}
+
+/* Колір слова Studio у футері (за макетом воно біле) */
+.footer-logo {
+  color: #f4f4fd; /* Світлий колір Cloud */
+}
+
+/* Колір слова Web у футері */
+.footer-logo span {
+  color: #4d5ae5;
+}
+
+/* Текст під логотипом у футері (світло-сірий) */
+.footer-text {
+  color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
